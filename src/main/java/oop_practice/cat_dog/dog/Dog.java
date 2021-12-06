@@ -9,7 +9,7 @@ public class Dog extends Animal {
         this.name = name;
     }
 
-    public void sound(){
+    public void sound() {
         System.out.println("I'm a Dog. My name is " + this.name + ". " + "Gav");
     }
 }
